@@ -17,5 +17,9 @@
 /*
     Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
 */ 
-let sdlc = "Planning, Analysis of Requirements, Design, Implementing, testing, mantaining."
-console.log(sdlc)
+let planning = "Deciding what to built."
+let analysisOfRequirements = " Decide what your product needs to very specifically."
+let design = "Built a plan to achieve gaols."
+let implementation = "Write code and functions, componets you have designed."
+let testing = "Test code and functions of the web to make sure it all works."
+let maintainAndIntegration = "Mantain code up to date get risolve bugs constantly."
